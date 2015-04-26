@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+.tmp
+.sass-cache
+# Windows image file caches
+Thumbs.db
+ethumbs.db
+*.idea
+css/*
+npm-debug.log
